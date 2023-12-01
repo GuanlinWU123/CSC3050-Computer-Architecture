@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuguanlin/Desktop/CSC3050/Assignment_1/Ass1/LabelTable.h
+string
+-
+vector
+-
+
+/Users/wuguanlin/Desktop/CSC3050/Assignment_1/Ass1/phase1.cpp
+phase1.h
+/Users/wuguanlin/Desktop/CSC3050/Assignment_1/Ass1/phase1.h
+
+/Users/wuguanlin/Desktop/CSC3050/Assignment_1/Ass1/phase1.h
+iostream
+-
+fstream
+-
+vector
+-
+stdlib.h
+-
+algorithm
+-
+sstream
+-
+string
+-
+map
+-
+LabelTable.h
+/Users/wuguanlin/Desktop/CSC3050/Assignment_1/Ass1/LabelTable.h
+
